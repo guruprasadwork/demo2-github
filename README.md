@@ -1,3 +1,3 @@
 # demo2-github
 
-guruprasad said he is understanding git and github.
+guruprasad said he is understanding git and GitHub.
